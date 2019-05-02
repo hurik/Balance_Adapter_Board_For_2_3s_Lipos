@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name PowerCable)(type KiCad)(uri ${KIPRJMOD}/Libs/PowerCable.pretty)(options "")(descr ""))
+  (lib (name XT)(type KiCad)(uri ${KIPRJMOD}/Libs/XT.pretty)(options "")(descr ""))
+)
