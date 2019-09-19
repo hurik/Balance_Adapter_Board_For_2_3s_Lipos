@@ -37,4 +37,6 @@ bom/
 # Gerber export output
 out/
 
+*.cbf
+
 # End of https://www.gitignore.io/api/kicad
